@@ -20,6 +20,9 @@
 -->
 # Release Notes
 
+### 3.0.2 (Nov 12, 2019)
+* Fix issue crashes due to reading permission changes in Android 8 and up.
+
 ### 3.0.1 (Dec 15, 2017)
 * [CB-13062](https://issues.apache.org/jira/browse/CB-13062): Deprecated this plugin. Added notice to README.md
 
